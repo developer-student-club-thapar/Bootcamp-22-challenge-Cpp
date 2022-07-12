@@ -10,3 +10,5 @@ Challenge and links for the C++ bootcamp
 -   Leetcode link: https://leetcode.com/problems/two-sum/
 -   100 days of dsa: https://discord.com/channels/743751114851090475/993198343754895572
 or join the GDSC discord and enroll in the program there
+
+to build the project, change directory to src, then run make
