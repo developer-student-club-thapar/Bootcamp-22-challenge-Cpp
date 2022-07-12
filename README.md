@@ -12,3 +12,6 @@ Challenge and links for the C++ bootcamp
 or join the GDSC discord and enroll in the program there
 
 to build the project, change directory to src, then run make
+
+the challenge is to make a window in opengl to display your name 
+Bonus:- each letter in a different colour
