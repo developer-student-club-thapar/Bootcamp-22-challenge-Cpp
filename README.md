@@ -1,5 +1,5 @@
-# Bootcamp-challenge
-## Challenge 
+# Bootcamp Challenge
+
 The challenge is to make a window in opengl to display your name <br />
 Bonus:- each letter in a different colour
 
@@ -17,7 +17,7 @@ make
 -   DSA playlist: https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
 
 Join the GDSC discord at https://discord.gg/t2WjxbmcKq
-to enroll in the 100-Days-of-dsa, euclid game engine and many more such programs there.
+to enroll in the 100-Days-of-dsa, euclid game engine and many more such programs.
 
 
 ### Learning resources
