@@ -1,6 +1,6 @@
 # Bootcamp-challenge
 ## Challenge 
-The challenge is to make a window in opengl to display your name
+The challenge is to make a window in opengl to display your name <br />
 Bonus:- each letter in a different colour
 
 ## Build instructions
